@@ -1,0 +1,16 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "Exercise for Autofleet",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha Tests/test.js --no-timeouts"
+  },
+  "author": "Edi Toropov",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0",
+    "selenium-webdriver": "^4.6.1"
+  }
+}
