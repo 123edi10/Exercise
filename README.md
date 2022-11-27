@@ -6,7 +6,7 @@ Prerequisites: [Node.js](https://nodejs.org/en/), [Docker](https://www.docker.co
 To run this project:\
 Change __Name__ to your personal desire __[lowercase]__
 ```javascript
-$ docker build -t "Name" -f Dockerfile .
+$ docker build -t Name -f Dockerfile .
 ```
 After building the docker image you need to run:
 ```javascript
